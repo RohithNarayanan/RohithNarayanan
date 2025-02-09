@@ -1,5 +1,5 @@
 ## Hi there this is my first git hub repository👋
-
+-Author is Rohith Narayanan
 <!--
 **RohithNarayanan/RohithNarayanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
