@@ -1,5 +1,9 @@
-## Hi there this is my first git hub repository👋
--Author is Rohith Narayanan
+## Hi there this is Rohith Narayanan👋
+Passionate Tech Learner | Data Analytics Enthusiast
+
+I'm a passionate B.Tech Computer Science student at VIT-AP University with expertise in data analytics and software engineering. My unique combination of technical skills and marketing knowledge allows me to bridge the gap between technical and business domains.
+
+I'm adept at problem-solving, analytical thinking, and adapting to dynamic challenges in the tech industry. My goal is to leverage data to drive meaningful insights and create impactful solutions.
 <!--
 **RohithNarayanan/RohithNarayanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
