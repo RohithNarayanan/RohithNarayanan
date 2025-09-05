@@ -1,5 +1,11 @@
-#  Hi there 👋, I’m Rohith, a B.Tech Computer Science student at VIT-AP University 
+#  Hi there 👋 I’m Rohith Narayanan
 💡 Passionate Tech Learner | Data Analytics Enthusiast 
+
+## 🎓 Education  
+
+- **B.Tech in Computer Science and Engineering (CSE)**  
+  *VIT-AP University* | 2023 – 2027  
+
 
 I enjoy:  
 - 📊 Turning raw data into actionable insights  
